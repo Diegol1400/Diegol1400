@@ -10,10 +10,13 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diegol1400&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diegol1400&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegol1400&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegol1400&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diegol1400&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegol1400&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Diegol1400&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
